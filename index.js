@@ -7,3 +7,5 @@ for(let i = 0; i<= 100; i += Math.floor(Math.random() * 15)) {
 }
 
 console.log('Loaded')
+
+console.log('Thanks for using our app')
