@@ -6,6 +6,9 @@ for(let i = 0; i<= 100; i += Math.floor(Math.random() * 15)) {
     ,1000)
 }
 
-console.log('Loaded')
+console.log('Loaded');
 
-console.log('Thanks for using our app')
+
+
+console.log('Thanks for using our app');
+
